@@ -1,6 +1,2 @@
 node_modules
 .DS_Store
-.eslintrc.js
-.prettierrc
-package.json
-package-lock.json
